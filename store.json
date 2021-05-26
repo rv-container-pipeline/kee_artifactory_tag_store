@@ -35,6 +35,7 @@
     "redventures-container-pipeline-docker-test.jfrog.io/kee-dotnet-aspnet-5-slim": "1.0.0",
     "redventures-container-pipeline-docker-test.jfrog.io/kee-dotnet-runtime-5-slim": "1.0.0",
     "redventures-container-pipeline-docker-test.jfrog.io/kee-php-7.4-buster-minimal": "1.0.0",
-    "redventures-container-pipeline-docker-test.jfrog.io/kee-php-7.4-fpm-buster-minimal": "1.0.0"
+    "redventures-container-pipeline-docker-test.jfrog.io/kee-php-7.4-fpm-buster-minimal": "1.0.0",
+    "redventures-container-pipeline-docker-test.jfrog.io/kee-php-7.4-fpm-alpine": "1.0.0"
   }
 }
